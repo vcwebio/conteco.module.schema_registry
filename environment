@@ -5,7 +5,7 @@ export CONTECO_DESCRIPTION="Schema Registry REST module with managed standard UR
 
 export CONTECO_TYPE="module"
 export CONTECO_NAME="schema_registry"
-export CONTECO_TAG="5.4.0"
+export CONTECO_TAG="6.0.0"
 
 export CONTECO_BASE="image.wrapper"
 export CONTECO_BUILD="image"
